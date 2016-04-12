@@ -2,9 +2,9 @@
 
 ## Prerequisites
 
-* Yoou will need an account on New Relic.
+* You will need an account on New Relic.
 
-* You need to download a suitable newrelic.yaml and to place that, with the appropriate entry for your New Relic license key, into the root directory of this service before running/packaging it.
+* You need to download a suitable newrelic.yaml, or pass overriding command-line parmeters, and to place that, with the appropriate entry for your New Relic license key, into the root directory of this service before running/packaging it.
 
 ## To Build into Docker using Maven
 
